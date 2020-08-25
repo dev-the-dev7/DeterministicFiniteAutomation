@@ -1,1 +1,1 @@
-# DeterministicFiniteAutomation
+# deterministic-finite-automation
